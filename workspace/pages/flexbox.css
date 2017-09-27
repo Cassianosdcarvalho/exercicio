@@ -1,0 +1,26 @@
+.flex{
+display: flex;
+flex-direction: column;
+
+}
+
+.radio{
+    display: flex;
+    flex-flow: row nowrap;
+    align-items: baseline;
+    
+}
+
+.text{
+    flex-direction: column;
+}
+
+
+
+
+
+
+
+
+
+

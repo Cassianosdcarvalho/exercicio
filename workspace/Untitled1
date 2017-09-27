@@ -1,0 +1,24 @@
+
+['1. Quem escreveu a saga As Cronica de Nárnia?\n', ok
+'2. Qual desses livros foi adaptado para filme\n?',
+'3. Selecione as personagens que aparecem no livro o Senhor dos Anéis\n',
+'4. Qual autor criou a personagem Dom Quixote?\n',
+'5. Quem escreveu a saga Herry Potter?\n',
+'6. A personagem Lisbeth Salander é a protagonista de qual saga?\n',
+'7. Qual o nome deste escritor\n?',
+'8. A Cidade das esmeraldas é de qual livro?\n',
+'9. Qual o nome deste escritor?\n',
+'10. Qual é o pseudonimo da escritora Agatha Christie?\n',
+];
+
+['1. C. S. Lewis\n', ok
+['2. O Regresso',' A menina que roubava livros\n'], 
+['3. 3.1','3.4\n'],
+'4. Miguel de Cervantes\n', 
+'5. J. K. Rowling.\n', 
+'6. Trilogia Millenniun\n',
+'7. Oswaldo de Andrade\n',
+'8. O Mágico de OZ\n',
+'9. Monteiro Lobato\n',
+'10. Mary Westmacott\n'
+];

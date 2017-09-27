@@ -1,0 +1,53 @@
+h1{
+    text-align: center;
+}
+#top{
+    background-color: black;
+    color: aliceblue;
+}
+
+.section1{
+    padding: 1%;
+}
+
+.section1 img{
+    position: relative;
+    left: 80%;
+    right: 30%;
+}
+
+#img{
+    position: relative;
+    left: 35%;
+    right: 30%;
+    top: -80px;
+}
+.section2{
+    background-color:chocolate;
+    padding: 1%;
+}
+
+
+.section2 h1{
+   position: relative;
+   top: -40px;
+}
+
+
+.section3{
+    padding: 3%;
+}
+
+.section3 button{
+    padding: 20px;
+    margin: 20px;
+    width: 170px;
+    position: relative;
+    left: 30%;
+    right: 40%;
+    
+}
+
+
+
+

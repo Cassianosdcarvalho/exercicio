@@ -1,0 +1,62 @@
+.flex{
+    display: flex;
+    flex-direction: column;
+}
+
+h1{
+    text-align: center;
+}
+
+img{
+    max-width: 500px;
+}
+#top{
+    background-color: black;
+    color: aliceblue;
+}
+
+
+.section1{
+    padding: 4%;
+}
+.section1 img{
+    position: relative;
+    left: 30%;
+    right: 30%;
+}
+
+.section2{
+    background-color:chocolate;
+    padding: 1%;
+}
+
+.section2 img{
+    width: 200px;
+    position: relative;
+    top: -80px;
+    left: 40%;
+    right: 40%;
+}
+
+.section2 h1{
+   position: relative;
+   top: -40px;
+}
+
+
+.section3{
+    padding: 3%;
+}
+
+.section3 a{
+    position: relative;
+    left: 40%;
+    right: 40%;
+}
+
+.section3 input{
+    padding: 30
+    
+}
+
+
